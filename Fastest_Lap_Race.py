@@ -70,8 +70,8 @@ best_latifi = laps.pick_driver('LAT').pick_fastest()
 print(best_latifi['LapTime'])
 
 print("Kimi")
-best_bwoah = laps.pick_driver('RAI').pick_fastest()
-print(best_bwoah['LapTime'])
+best_kimi = laps.pick_driver('RAI').pick_fastest()
+print(best_kimi['LapTime'])
 
 print("Giovinazzi")
 best_giovinazzi = laps.pick_driver('GIO').pick_fastest()
