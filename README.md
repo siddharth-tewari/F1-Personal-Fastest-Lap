@@ -16,3 +16,6 @@ Run the program by using Command Prompt
 ```bash
 python Fastest_Lap_Race.py
 ```
+
+# Output
+![alt text](https://github.com/[siddharth-tewari]/[F1-Personal-Fastest-Lap]/blob/[main]/output.jpg?raw=true)
