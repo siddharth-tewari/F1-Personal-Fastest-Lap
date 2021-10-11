@@ -18,4 +18,4 @@ python Fastest_Lap_Race.py
 ```
 
 # Output
-![alt text](https://github.com/[siddharth-tewari]/[F1-Personal-Fastest-Lap]/blob/[main]/output.jpg?raw=true)
+![alt text](https://github.com/siddharth-tewari/F1-Personal-Fastest-Lap/blob/main/output.jpg?raw=true)
