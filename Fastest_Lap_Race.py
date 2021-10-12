@@ -23,7 +23,7 @@ print(best_checo['LapTime'])
 
 print("Leclerc")
 best_leclerc = laps.pick_driver('LEC').pick_fastest()
-print(best_bottas['LapTime'])
+print(best_leclerc['LapTime'])
 
 print("Sainz")
 best_sainz = laps.pick_driver('SAI').pick_fastest()
